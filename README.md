@@ -16,7 +16,7 @@
   ## Installation
   Here is what you need to install this application: 
   <br />
-  run npm start and in insomnia you can get the routes for categories, products and tags. You can also create update and delete items by the id. * I did have trouble running the put routes as you'll see in the video*
+  You MUST have mysql2, dotenv, express.js installed to run the application. Also Insomnia must be installed to test the various routes.
   ## Usage
   Simple run npm start and connect to localhost:3001 in insomnia to test the api routes
   ## Contributing
@@ -26,9 +26,9 @@
   ## Test
   Here is a sample test of the application running:
   <br />
-  [Video link](https://drive.google.com/file/d/1dvh56e6F4QLN-zQm5NSVlzd0ozGReNtV/view)
+  [Video link](https://drive.google.com/file/d/1vdFHGQEeuaIdn1KwNCV9kMM25pohneES/view)
   <br />
-  ![image](/images/mod%2013%20challenge.gif)
+  ![image](/images/Mod%2013%20gif%20updated.gif)
   ## Questions
   If you have any questions please reach out to me at:
   <br />
